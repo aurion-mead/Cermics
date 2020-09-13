@@ -300,17 +300,17 @@ section:after {
 
 .img1 {
   /* The image used */
-  background-image: url("Images%20and%20Info/fog.png");
+  background-image: url("fog.png");
 }
 
 .img2 {
   /* The image used */
-  background-image: url("Images and Info/nizwa.jpg");
+  background-image: url("nizwa.jpg");
 }
 
 .img3 {
   /* The image used */
-  background-image: url("Images and Info/navajo.jpg");
+  background-image: url("navajo.jpg");
 }
 
 .img1, .img2, .img3 {
